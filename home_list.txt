@@ -1,20 +1,21 @@
-discord.com
-discord.gg
-discord.media
-discordapp.com
-discordapp.net
-discordstatus.com
-feelinsonice-hrd.appspot.com
-app.snapchat.com
-aws.api.snapchat.com
-aws.duplex.snapchat.com
-app-analytics-v2.snapchat.com
-chat-gateway-prod.chat.snapchat.com
-gcp.api.snapchat.com
-mvm.snapchat.com
-pro-accounts.snapchat.com
-tr.snapchat.com
-us-central1-gcp.api.snapchat.com
-us-east1-aws.api.snapchat.com
-us-east4-gcp.api.snapchat.com
-gcs.sc-cdn.net
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.media
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discordstatus.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 geofilters.snapchat.com
+0.0.0.0 forbusiness.snapchat.com
+0.0.0.0 business.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 businesshelp.snapchat.com
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 support.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 snapkit.com
+0.0.0.0 app-analytics.snapchat.com
