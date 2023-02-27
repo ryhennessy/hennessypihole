@@ -4,3 +4,4 @@ discord.media
 discordapp.com
 discordapp.net
 discordstatus.com
+*.snapchat.com
