@@ -1,7 +1,20 @@
-0.0.0.0 discord.com
-0.0.0.0 discord.gg
-0.0.0.0 discord.media
-0.0.0.0 discordapp.com
-0.0.0.0 discordapp.net
-0.0.0.0 discordstatus.com
-0.0.0.0 snapchat.com
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com
+feelinsonice-hrd.appspot.com
+app.snapchat.com
+aws.api.snapchat.com
+aws.duplex.snapchat.com
+app-analytics-v2.snapchat.com
+chat-gateway-prod.chat.snapchat.com
+gcp.api.snapchat.com
+mvm.snapchat.com
+pro-accounts.snapchat.com
+tr.snapchat.com
+us-central1-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+gcs.sc-cdn.net
