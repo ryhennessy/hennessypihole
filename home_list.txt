@@ -1,7 +1,7 @@
-discord.com
-discord.gg
-discord.media
-discordapp.com
-discordapp.net
-discordstatus.com
-snapchat.com
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.media
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discordstatus.com
+0.0.0.0 snapchat.com
